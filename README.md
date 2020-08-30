@@ -41,3 +41,5 @@ Unit testing:
 
  - `$PYTHON3 -m unittest lexer_test`
  - `$PYTHON3 -m unittest parser_test`
+ - `$PYTHON3 -m unittest interpreter_test`
+ 
