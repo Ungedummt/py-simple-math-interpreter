@@ -1,5 +1,7 @@
 # Python - Simple Math Interpreter
 
+The development is shifted to [gnome's gitlab](https://gitlab.gnome.org/Ungedummt/MathInterpreter).
+
 An interpreter, written from scratch in Python, that can evaluate simple math calculations.
 
 This is useful for learning how computers process human-readable text and is a great first step to creating your own programming language, data language, etc.
